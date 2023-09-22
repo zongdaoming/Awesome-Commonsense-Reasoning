@@ -1,6 +1,5 @@
 # Awesome-Commonsense-Reasoning
-✨✨ Latest Papers and Benchmarks on Commonsense Reasoning
-Welcome to the Awesome Commonsense Reasoning project! 🚀 Here, we curate the latest research papers and benchmarks related to commonsense reasoning, creating a comprehensive resource for researchers, developers, and enthusiasts in the field.
+✨✨ Welcome to the Awesome Commonsense Reasoning project! 🚀 Here, we curate the latest research papers and benchmarks related to commonsense reasoning, creating a comprehensive resource for researchers, developers, and enthusiasts in the field.
 
 ![Commonsense Reasoning](commonsense_reasoning.png)
 
